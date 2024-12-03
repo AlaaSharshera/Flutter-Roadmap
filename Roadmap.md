@@ -13,6 +13,7 @@ This roadmap is divided into **four levels**, each designed to guide you through
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 💡📌 **"Before we embark on this journey, here are some golden tips to keep in mind. Jot them down and keep them in sight—they’ll be your compass along the way!"**
+
 1️⃣ **"Begin with the Basics, Aim for Mastery"** 
 
 Just as a sturdy building requires a solid foundation, excelling in computer science starts with mastering the basics. These core principles are the building blocks of all modern technologies. Understanding them will equip you with the confidence and skills to navigate complex topics like programming, algorithms, and data structures.  
