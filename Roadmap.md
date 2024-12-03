@@ -52,8 +52,7 @@ ________________________________________________________________________________
 
 | Topic         | Task                                | Resources               |
 |---------------|-------------------------------------|------------------------------|
-|Setup IDE      | Setup IDE                           |[Watch Flutter Tutorial](https://youtu.be/3M8gyN_Xq7E?si=0yMv94cRD7pdmI5e)
-  |
+|Setup IDE      | Setup IDE                           |[Watch this](https://youtu.be/3M8gyN_Xq7E?si=0yMv94cRD7pdmI5e)|
 | Intermediate  | State management, Navigation       | To-do app, Recipe app        |
 | Advanced      | Animations, Firebase integration   | Chat app, Weather app        |
 | Expert        | Performance optimization, Testing  | Portfolio app, E-commerce app|
