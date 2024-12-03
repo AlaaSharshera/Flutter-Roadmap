@@ -59,12 +59,12 @@ ________________________________________________________________________________
 | variables -data types  | State management, Navigation       | To-do app, Recipe app        |
 |Arithmetic operators   | Animations, Firebase integration   | Chat app, Weather app        |
 | collection data types (list-set-map)   | Performance optimization, Testing  | Portfolio app, E-commerce app|
-|Arithmetic operators   | Animations, Firebase integration   | Chat app, Weather app        |
-|Arithmetic operators   | Animations, Firebase integration   | Chat app, Weather app        |
-|Arithmetic operators   | Animations, Firebase integration   | Chat app, Weather app        |
-|Arithmetic operators   | Animations, Firebase integration   | Chat app, Weather app        |
-|Arithmetic operators   | Animations, Firebase integration   | Chat app, Weather app        |
-|Arithmetic operators   | Animations, Firebase integration   | Chat app, Weather app        |
+|comparison operators  | Animations, Firebase integration   | Chat app, Weather app        |
+|Conditional statements  | Animations, Firebase integration   | Chat app, Weather app        |
+|Logical operators   | Animations, Firebase integration   | Chat app, Weather app        |
+|scope-null safety   | Animations, Firebase integration   | Chat app, Weather app        |
+|Loops   | Animations, Firebase integration   | Chat app, Weather app        |
+|Functions -parameters   | Animations, Firebase integration   | Chat app, Weather app        |
 
 
 
