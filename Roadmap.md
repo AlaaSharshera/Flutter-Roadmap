@@ -44,6 +44,17 @@ Don’t compare your beginning to someone else’s peak. Everyone has different 
 9️⃣ **Stay Consistent and Disciplined**  
 Consistency and discipline are the keys to mastering any field. Make steady progress every day, no matter how small, and commit to your learning journey. The combination of persistence and dedication will lead to success.
 
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+**Let's Start our journey**🚀
+| Level         | Skills to Learn                     | Suggested Projects           |
+|---------------|-------------------------------------|------------------------------|
+| Beginner      | Widgets, Layouts, Dart basics      | Counter app, Login screen    |
+| Intermediate  | State management, Navigation       | To-do app, Recipe app        |
+| Advanced      | Animations, Firebase integration   | Chat app, Weather app        |
+| Expert        | Performance optimization, Testing  | Portfolio app, E-commerce app|
+
+
+
 
 
 
