@@ -46,7 +46,8 @@ Consistency and discipline are the keys to mastering any field. Make steady prog
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 **Let's Start our journey**🚀
- **Level**🅰  
+
+ **Level** 🅰  
 
 👉 In this level , We will learn dart and oop .
 
@@ -55,9 +56,15 @@ ________________________________________________________________________________
 | Topic         | Task                                | Resources               |
 |---------------|-------------------------------------|------------------------------|
 |Setup IDE      | Setup IDE                           |[Watch this](https://youtu.be/3M8gyN_Xq7E?si=0yMv94cRD7pdmI5e)|
-| Intermediate  | State management, Navigation       | To-do app, Recipe app        |
-| Advanced      | Animations, Firebase integration   | Chat app, Weather app        |
-| Expert        | Performance optimization, Testing  | Portfolio app, E-commerce app|
+| variables -data types  | State management, Navigation       | To-do app, Recipe app        |
+|Arithmetic operators   | Animations, Firebase integration   | Chat app, Weather app        |
+| collection data types (list-set-map)   | Performance optimization, Testing  | Portfolio app, E-commerce app|
+|Arithmetic operators   | Animations, Firebase integration   | Chat app, Weather app        |
+|Arithmetic operators   | Animations, Firebase integration   | Chat app, Weather app        |
+|Arithmetic operators   | Animations, Firebase integration   | Chat app, Weather app        |
+|Arithmetic operators   | Animations, Firebase integration   | Chat app, Weather app        |
+|Arithmetic operators   | Animations, Firebase integration   | Chat app, Weather app        |
+|Arithmetic operators   | Animations, Firebase integration   | Chat app, Weather app        |
 
 
 
