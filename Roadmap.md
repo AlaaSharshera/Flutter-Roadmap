@@ -46,9 +46,13 @@ Consistency and discipline are the keys to mastering any field. Make steady prog
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 **Let's Start our journey**🚀
-| Level         | Skills to Learn                     | Suggested Projects           |
+🅰  **Level A** 
+👉 In this level , We will learn dart and oop .
+👉 Solve a problem solving using dart.
+
+| Topic         | Task                                | Resources               |
 |---------------|-------------------------------------|------------------------------|
-| Beginner      | Widgets, Layouts, Dart basics      | Counter app, Login screen    |
+|Setup IDE      | Setup IDE                           |[ٍSetup-video]([الرابط](https://youtu.be/3M8gyN_Xq7E?si=0yMv94cRD7pdmI5e))   |
 | Intermediate  | State management, Navigation       | To-do app, Recipe app        |
 | Advanced      | Animations, Firebase integration   | Chat app, Weather app        |
 | Expert        | Performance optimization, Testing  | Portfolio app, E-commerce app|
